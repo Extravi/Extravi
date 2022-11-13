@@ -2,6 +2,13 @@
 
 Email: extravi@duck.com
 
+<div align="center">
+  
+  [![Counter](https://visitor-badge.laobi.icu/badge?page_id=Extravi.Extravi)](https://github.com/Extravi)
+  ![GitHub User's stars](https://img.shields.io/github/stars/Extravi?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
+  
+</div>
+
 <!--
 **Extravi/Extravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
