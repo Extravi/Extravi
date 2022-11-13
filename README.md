@@ -7,6 +7,8 @@ Email: extravi@duck.com
   [![Counter](https://visitor-badge.laobi.icu/badge?page_id=Extravi.Extravi)](https://github.com/Extravi)
   ![GitHub User's stars](https://img.shields.io/github/stars/Extravi?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
   
+  ![snake gif](https://github.com/Extravi/Extravi/blob/output/github-contribution-grid-snake.gif)
+  
 </div>
 
 <!--
