@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Email: extravi@duck.com
+Email: extravi@extravi.dev
 
 <div align="center">
   
