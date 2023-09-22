@@ -8,8 +8,6 @@ Email: extravi@extravi.dev
   ![GitHub User's stars](https://img.shields.io/github/stars/Extravi?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
   [![Downloads](https://img.shields.io/github/downloads/Extravi/Installer/total)](https://github.com/Extravi/Installer/releases)
   
-  ![snake gif](https://github.com/Extravi/Extravi/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
 <!--
