@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Email: extravi@extravi.dev
+Email: dante@extravi.dev
 
 <div align="center">
   
