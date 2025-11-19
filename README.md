@@ -7,6 +7,8 @@ Email: dante@extravi.dev
   [![Counter](https://visitor-badge.laobi.icu/badge?page_id=Extravi.Extravi)](https://github.com/Extravi)
   ![GitHub User's stars](https://img.shields.io/github/stars/Extravi?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
   [![Downloads](https://img.shields.io/github/downloads/Extravi/Installer/total)](https://github.com/Extravi/Installer/releases)
+  [![Downloads](https://img.shields.io/github/downloads/Extravi/Bloxshade/total)](https://github.com/Extravi/Bloxshade/releases)
+  [![Downloads](https://img.shields.io/github/downloads/Extravi/bloxshade-args/total)](https://github.com/Extravi/bloxshade-args/releases)
   
 </div>
 
